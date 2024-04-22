@@ -5,7 +5,7 @@
 
 * Clone the git repository locally using the command below
 ``` 
-git clone https://github.com/Szymon/remitly
+git clone https://github.com/SzymonFit/remitly.git
 ```
 
 ## 2. Tests
